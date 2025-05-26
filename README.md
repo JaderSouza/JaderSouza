@@ -1,7 +1,7 @@
 ## Olá mundo! Eu sou o Jader Souza.
 
-- 🔭 Estou em busca da primeira oportunidade.
-- 🌱 Estudando python e java (Back-end) / HTML, CSS, JS (Front-end).
+- 🔭 Desbravando o mundo da Engenharia de dados.
+- 🌱 Estudando python e SQL.
 - 😄 Pronouns: ele/dele.
 
 <div>
@@ -15,7 +15,7 @@
   <img align="center" alt="Jader-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jader-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jader-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jader-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Jader-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL-plain.svg">
 </div>
 
 ##  
